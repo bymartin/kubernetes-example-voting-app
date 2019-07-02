@@ -28,4 +28,8 @@ redis            ClusterIP      10.19.253.47    <none>           6379/TCP       
 result-service   LoadBalancer   10.19.251.108   34.67.141.216    80:30990/TCP   4m1s
 voting-service   LoadBalancer   10.19.240.11    35.184.223.239   80:30514/TCP   58s
 
+--- Part Two ---
+Convert pods to deployments
+
+
 
